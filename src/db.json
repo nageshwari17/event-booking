@@ -1,0 +1,61 @@
+ [
+  {
+    "id":1,
+    "name":"Advanced Pottery Workshop",
+    "date": "14/08/2020",
+    "imgthumb": "https://in.bmscdn.com/Events/moviecard/advanced-pottery-workshop-et00136157-2020-7-27-t-14-25-53.jpg",
+    "imgBig": "https://in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-advanced-pottery-workshop-2020-7-27-t-14-24-35.jpg",
+    "availableSeats": 20
+  },
+  {
+    "id":2,
+    "name":"Food and Travel Writing Master Class",
+    "date": "25/08/2020",
+    "imgthumb": "https://in.bmscdn.com/Events/moviecard/food-and-travel-writing-et00135987-2020-7-29-t-12-28-30.jpg",
+    "imgBig": "https://in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-advanced-pottery-workshop-2020-7-27-t-14-24-35.jpg",
+    "availableSeatss": 15
+  },
+
+  {
+    "id":3,
+    "name":"Music Jam",
+    "date": "01/09/2020",
+    "imgthumb": "https://in.bmscdn.com/Events/moviecard/music-jam-et00136176-2020-7-28-t-18-59-19.jpg",
+    "imgBig": "https://in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-advanced-pottery-workshop-2020-7-27-t-14-24-35.jpg",
+    "availableSeats": 5
+  },
+
+  {
+    "id":4,
+    "name":"The/Nudge Forum (global edition)",
+    "date": "01/09/2020",
+    "imgthumb": "https://in.bmscdn.com/Events/moviecard/the-nudge-forum-global-edition-et00136823-2020-8-12-t-16-9-2.jpg",
+    "imgBig": "https://in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-advanced-pottery-workshop-2020-7-27-t-14-24-35.jpg",
+    "availableSeats": 9
+  },
+
+  {
+    "id":5,
+    "name":"Hobbystation Workshops",
+    "date": "25/09/2020",
+    "imgthumb": "https://in.bmscdn.com/Events/moviecard/hobbystation-online-workshops-et00135886-2020-7-23-t-15-19-15.jpg",
+    "imgBig": "https://in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-advanced-pottery-workshop-2020-7-27-t-14-24-35.jpg",
+    "availableSeats": 30
+  },
+  {
+    "id":6,
+    "name":"Suffy Jurney",
+    "date": "15/09/2020",
+    "imgthumb": "https://in.bmscdn.com/Events/moviecard/stargazers-sufi-journey-with-dj-gt-et00136848-2020-8-11-t-15-53-26.jpg",
+    "imgBig": "https://in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-advanced-pottery-workshop-2020-7-27-t-14-24-35.jpg",
+    "availableSeats": 0
+  },
+  {
+    "id":7,
+    "name":"Of Love and Artist",
+    "date": "30/09/2020",
+    "imgthumb": "https://in.bmscdn.com/Events/moviecard/watch-the-muscial-of-love-artistry-et00136846-2020-8-11-t-15-13-52.jpg",
+    "imgBig": "https://in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-advanced-pottery-workshop-2020-7-27-t-14-24-35.jpg",
+    "availableSeats": 19
+  }
+]
